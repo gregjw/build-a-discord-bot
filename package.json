@@ -1,0 +1,28 @@
+{
+  "name": "build-a-discord-bot",
+  "version": "0.0.1",
+  "description": "This an easy-to-understand template for a Discord bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "discord.js": "^11.2.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/build-a-discord-bot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}litch",
+    "express"
+  ]
+}
