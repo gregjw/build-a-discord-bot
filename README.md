@@ -46,8 +46,6 @@ Remix this project, look through the code in `server.js` and add the custom comm
 
 Find out more [about Glitch](https://glitch.com/about).
 
-
-# This project was built by me, [Greg Worrall](https://twitter.com/gregjwww) 🎉
 -------------------
 
 \\( ゜o゜)ノ Follow me on [Twitter](https://twitter.com/gregjwww) or [GitHub](https://github.com/gregjw).
